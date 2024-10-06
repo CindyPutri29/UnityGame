@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 567161c656572334c88f7517e47a6bfd, type: 3}
+  m_Name: Level 3 Data
+  m_EditorClassIdentifier: 
+  saveKey: Level 3
+  defaultUnlocked: 0
+  totalEnemyToSpawn: 30
+  enemySpawnRadius: 80
+  enemies:
+  - {fileID: 4700116776438336748, guid: e266c264a3d54554ea4e8525a2ca28d2, type: 3}
+  - {fileID: 8882191266517289165, guid: d504eaddad3def6499b2854104acf3a2, type: 3}
+  - {fileID: 7140895383744388583, guid: eec38c3c3a306194b8d8f66774cf013e, type: 3}
+  - {fileID: 2929586841422861409, guid: b48d963100e505c45bfe4b844ed64846, type: 3}
